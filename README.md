@@ -6,7 +6,7 @@
   |:--------------|:-------------:|
   | Type | Runner/Fight |
   | Platform | PC |
-  | Number Of Player | Solo (1) |
+  | Number Of Player | multiplayer (2-3) |
   | Network | offline |
 
 
