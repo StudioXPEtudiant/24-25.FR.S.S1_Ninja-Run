@@ -10,7 +10,7 @@
   | Network | offline |
 
 
-##  Ninja-run
+##  Ninja-runner
  
 
 ## 📖 Synopsis
