@@ -7,7 +7,7 @@
   | Type | Runner/Fight |
   | Platform | PC |
   | Number Of Player | multiplayer (2-3) |
-  | Network | oline |
+  | Network | online |
 
 
 ##  Ninja-runner
